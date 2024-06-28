@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "869356527267",
+    "project_id": "voxbox-52bf1",
+    "storage_bucket": "voxbox-52bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869356527267:android:88563cbce8355597802916",
+        "android_client_info": {
+          "package_name": "com.ceytech.vox_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869356527267-a8iifv7g29eo87f02j449jefnnojtki1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ceytech.vox_box",
+            "certificate_hash": "2746560d18d01b887fe849a9504ca665fd6e49c4"
+          }
+        },
+        {
+          "client_id": "869356527267-ahuao1hphloosb3igp61l9npnct3c8sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-cw_TV5zdhL2etatIWcx042DRDL9m8C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869356527267-ahuao1hphloosb3igp61l9npnct3c8sl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869356527267-4scqievlqko0v23nfltcghu1rdmv8dcl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ceytech.voxBox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
