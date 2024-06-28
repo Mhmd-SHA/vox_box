@@ -4,10 +4,8 @@ This repository contains the code for a Flutter chat room app named VoxBox, buil
 test. The app utilizes Firebase for authentication, real-time database, and adheres to the UI
 specifications provided in a Figma file (not included).
 
-        <a href="https://github.com/Mhmd-SHA/case_study_app_Bynry/releases/download/v1.0.0/app-release.apk">Download APK</a>
-
-<a href="https://github.com/Mhmd-SHA/case_study_app_Bynry/releases/download/v1.0.0/app-release.apk">
-Download APK</a>
+<b><a href="https://github.com/Mhmd-SHA/case_study_app_Bynry/releases/download/v1.0.0/app-release.apk">
+Download APK</a><b>
 
 ### ScreenShots
 
